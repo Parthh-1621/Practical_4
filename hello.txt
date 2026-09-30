@@ -1,1 +1,2 @@
 HELLO
+This file contains a greeting message
