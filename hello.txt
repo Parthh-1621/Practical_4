@@ -11,3 +11,4 @@ signup fix
 dashboard search
 hello feature
 partial change
+bug fixed
